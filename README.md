@@ -1,4 +1,4 @@
-# Starting JavaScript
+# Popular JavaScript Datatypes with examples
 
 This is a repo that shows the basics of JavaScript data types including:
 
